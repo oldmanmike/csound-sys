@@ -1,1 +1,1 @@
-# rust-csound
+# csound-sys
